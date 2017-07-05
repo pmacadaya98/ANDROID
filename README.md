@@ -1,2 +1,1 @@
-# ANDROID
-first activity
+# MD-w2-a1
